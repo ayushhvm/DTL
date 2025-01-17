@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+bokeh
+ipywidgets
+streamlit
+pillow
+pytesseract
+
