@@ -6,4 +6,5 @@ ipywidgets
 streamlit
 pillow
 pytesseract
-
+google-cloud-vision
+opencv-python
