@@ -87,6 +87,3 @@ if uploaded_file:
     else:
         st.error("Error in Vision API response. Check your API key and input.")
 
-# Footer
-st.markdown("---")
-st.caption("Powered by Google Cloud Vision API and AI-Powered Analysis.")
